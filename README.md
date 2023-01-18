@@ -48,8 +48,6 @@ Entre com o número correspondente à opção desejada:
 ```
 Esse ciclo se repete até a opção 2 ser escolhida, o que indica que a pessoa usuária quer finalizar o expediente e imprimir o relatório.
 
-⚠️🔴**DICA: use uma variável do tipo `short` para armazenar a opção inserida pela pessoa usuária, já que é um valor númerico de pequena escala.** 🔴⚠️
-
 Depois de implementada a parte do menu, você deverá implementar a parte final, que é o relatório. Como dito anteriormente, o relatório é uma parte fundamental do sistema, pois provê informações para que a pessoa proprietária do estabelecimento possa traçar estratégias para aumentar sua clientela e, consequentemente, aumentar seu lucro, gerando mais empregos, impactando a vida de muitas pessoas. Consegue ver a importância de um sistema bem desenvolvido?
 
 O relatório deve ser impresso no console quando a opção 2 for selecionada. Supondo que 200 pessoas visitaram o estabelecimento, o relatório deve conter as seguintes informações:
@@ -90,8 +88,6 @@ TOTAL: 200
 
 - O valor percentual deve ter duas casas decimais, exceto se for zero, então pode ser apenas uma casa decimal, como exposto no exemplo acima.
 - Caso a opção inserida pela pessoa usuária seja um valor diferente de 1 ou de 2, a mensagem `Entre com uma opção válida!` deve ser impressa no console, e o menu voltar para o estado inicial.
-
-⚠️🔴**DICA: para fazer com que o valor do tipo `float` ou `double` tenha apenas duas casas decimais, pesquise sobre a classe `DecimalFormat`.** 🔴⚠️
 
 ## Exemplo
 

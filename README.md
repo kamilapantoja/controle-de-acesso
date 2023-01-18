@@ -1,4 +1,4 @@
-# Descrição do desafio: Sistema de Controle de Acesso
+# Projeto Sistema de Controle de Acesso
 
 Que sucesso! 👏 Chegou até você uma demanda para desenvolver um sistema de controle de acesso inteligente para um estabelecimento. Ficou combinado com o cliente que o sistema, ao ser finalizado, deve apresentar um relatório que divida as pessoas que acessaram o estabelecimento em três categorias:
 
